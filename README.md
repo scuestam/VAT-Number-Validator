@@ -1,2 +1,2 @@
 # VAT-Number-Validator
-VAT Number Validator
+EU VAT Number Validator
